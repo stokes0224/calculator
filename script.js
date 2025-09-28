@@ -90,7 +90,7 @@ clear.addEventListener("click", () => {
   if (!inputB) {
     a = "";
     console.log("a:", a);
-    screen.textContent = a;
+    screen.textContent = 0;
   } else {
     b = "";
     console.log("b:", b);
