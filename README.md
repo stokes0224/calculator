@@ -1,4 +1,4 @@
-🔢 Web Calculator
+🔢 Web Calc-u-later
 
 This is my calculator for the Odin Project. It’s fully functional, works in your browser, and now includes clickable buttons with keyboard support to be added in the future. 🖱️⌨️
 
