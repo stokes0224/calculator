@@ -141,21 +141,3 @@ function calculator(a, b, operator) {
   }
 }
 
-/*c = calculator(a, b, operator); - don't need a chain function
-
-function chain(c, d, operator) {
-  switch (operator) {
-    case "+":
-      return add(c, d);
-    case "-":
-      return subtract(c, d);
-    case "/":
-      return divide(c, d);
-    case "X":
-      return multiply(c, d);
-    default:
-      return "Invalid Operator";
-  }
-}
-
-console.log(calculator(a, b, "+")); */
